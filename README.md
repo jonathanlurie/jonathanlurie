@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Jonathan and I like to code things.
+(it also happens to be my job)
 
 <!--
 **jonathanlurie/jonathanlurie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
