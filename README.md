@@ -1,8 +1,8 @@
-### Hi, I'm Jonathan and I like to code things.
+### Hi, I'm Jonathan and I code things
 (it also happens to be my job)
 
-- 🗺️ I’m currently a senior dev working on graphics rendering and maps
-- 🌱 I’m currently learning more about weather science and data format, GIS things and WebGPU
-- 💬 Ask me about scientific data processing and visualization on the web, shader, signal processing, web stuff and maps
-- 📫 How to reach me: [on Twitter](https://twitter.com/jonathanlurie)
+- 🗺️ I’m currently a senior dev at [Camptocamp](https://camptocamp.com/en) working on geospatial data, mostly for the web
+- 🌱 I’m currently learning more about climate and forecast science
+- 💬 Ask me about scientific data processing and visualization on the web, computer graphics, signal processing and web maps
+- 📫 How to reach me: [on LinkedIn](https://www.linkedin.com/in/jolurie/)
 - 👨‍🌾 Pronouns: he/him
